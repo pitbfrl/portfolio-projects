@@ -247,4 +247,30 @@ span {
         font-size: 25px;
         margin-bottom: 5%;
     }
+    .ts-scr {
+        width: 50%;
+    }
+    .title-4 {
+        font-size: 40px;
+    }
+    .caption-4 {
+        font-size: 25px;
+    }
+    .link-4 {
+        font-size: 25px;
+        margin-bottom: 5%;
+    }
+    .clipboard-scr {
+        width: 50%;
+    }
+    .title-5 {
+        font-size: 40px;
+    }
+    .caption-5 {
+        font-size: 25px;
+    }
+    .link-5 {
+        font-size: 25px;
+        margin-bottom: 5%;
+    }
 }
