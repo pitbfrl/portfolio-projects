@@ -210,6 +210,9 @@ span {
         margin-top: 0%;
         margin-bottom: 5%;
     }
+    .underline-logo {
+        width: 5%;
+    }
     .weather-scr {
         width: 50%;
     }
